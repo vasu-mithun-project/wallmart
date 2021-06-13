@@ -1,2 +1,2 @@
 hello
-this is update for git fetch
+this is for git fetch
